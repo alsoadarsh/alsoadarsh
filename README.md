@@ -58,6 +58,10 @@ _Messy datasets, business case analysis, translating data into insights_
 </a>
 <p>📞 Click to see me predicting which customers are about to ghost their telecom!</p>
 
+<a href="https://github.com/alsoadarsh/challenged-kitchen-cost-analysis" target="_blank">
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aTA5c2htNnA1Y2F0cWJka2h1bGZkYzRyZGw0bDY5NjM4cmhsZXY1NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/THZxWfdlQ0Xl6OAb8t/giphy.gif" width="300" alt="NPV Make vs Buy Analysis"/>
+</a>
+<p>📊 Click to watch spreadsheets decide a real business dilemma (NPV + Monte Carlo inside)</p>
 
 > *Click the GIFs if you dare… data adventures await!*
 
