@@ -63,8 +63,12 @@ _Messy datasets, business case analysis, translating data into insights_
 </a>
 <p>📊 Click to watch spreadsheets decide a real business dilemma (NPV + Monte Carlo inside)</p>
 
-> *Click the GIFs if you dare… data adventures await!*
+<a href="https://github.com/alsoadarsh/asia-fertility-decline-dashboard" target="_blank">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZzZzV1d2Z5aW9lN3Z1Z2p5aGZ5a3ZlZ3N4b2Z4eGZ3d3V0aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7btPCcdNniyf0ArS/giphy.gif" width="300" alt="Asia Fertility Dashboard"/>
+</a>
+<p>🌏 Click to explore fertility decline vs obesity rise… same decade, opposite directions (Tableau dashboard)</p>
 
+> *Click the GIFs if you dare… data adventures await!*
 ---
 
 # Tech Stack
